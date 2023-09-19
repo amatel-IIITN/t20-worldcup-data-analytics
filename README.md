@@ -9,7 +9,8 @@
 
    
 Then we performed some data transformation and cleaning in pandas, followed by building dashboards in power bi.
-
+Uses the 
+# DAX Concepts
 Tools used:
 
 # Web Scraping
